@@ -40,3 +40,52 @@ Em resumo, o Sistema de Chamados é uma ferramenta essencial para empresas e pro
 - Firebase: Plataforma para desenvolvimento de aplicativos com funcionalidades de backend.
 - Yarn: Gerenciador de dependências.
 - VSCode: Editor de código utilizado para o desenvolvimento.
+
+## Como Executar o Projeto
+
+- Pré-requisitos:
+
+  - Node.js
+  - Yarn
+  - Android 
+
+- Clonar o Repositório:
+
+```
+git clone https://github.com/seu-usuario/sistema_de_chamados.git
+
+```
+
+- Abrir com VSCode
+
+- Instale as dependências
+
+```
+yarn install
+
+```
+
+- Entre na pasta raiz de seu projeto
+
+```
+cd sistema_de_chamados
+
+```
+
+- Setar node
+
+```
+set NODE_OPTIONS=--openssl-legacy-provider
+
+```
+
+- Inicie o servidor
+
+```
+yarn start
+
+```
+
+- [@octokatherine - Leticia](https://www.github.com/lehhofman)
+
+
