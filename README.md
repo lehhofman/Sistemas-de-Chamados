@@ -20,3 +20,23 @@ Em resumo, o Sistema de Chamados é uma ferramenta essencial para empresas e pro
   <img src="docs/Chamados.png" alt="Chamados" width="160"/>
   <img src="docs/Perfil.png" alt="Perfil" width="160"/>
 </div>
+
+## Funcionalidades
+
+- Adicionar Chamado: Permite ao usuário criar novos chamados, especificando informações como cliente, serviço, status e complemento.
+- Editar Chamado: Possibilita a edição de chamados já existentes, permitindo que o usuário atualize as informações conforme necessário.
+- Excluir Chamado: O usuário pode remover chamados que não são mais necessários.
+- Gerenciar Clientes: Função para adicionar, editar e excluir clientes, garantindo que as informações dos clientes estejam sempre atualizadas.
+- Perfil do Usuário: Permite ao usuário visualizar e editar seu perfil, incluindo a troca de imagem de perfil.
+- Armazenamento Persistente: Utiliza armazenamento local para garantir que as informações estejam sempre disponíveis, mesmo após fechar o aplicativo.
+- Interface Simples: Interface fácil de usar com ícones e botões claros para cada ação.
+- Responsividade: Adaptado para diferentes tamanhos de tela, garantindo uma boa experiência tanto em desktops quanto em dispositivos móveis.
+
+## Stack Utilizada
+
+- React.js: Biblioteca JavaScript para construção de interfaces de usuário.
+- Styled Components: Biblioteca para estilização de componentes React.
+- React Router: Biblioteca para gerenciamento de rotas em aplicações React.
+- Firebase: Plataforma para desenvolvimento de aplicativos com funcionalidades de backend.
+- Yarn: Gerenciador de dependências.
+- VSCode: Editor de código utilizado para o desenvolvimento.
